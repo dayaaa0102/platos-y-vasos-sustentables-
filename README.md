@@ -14,7 +14,7 @@
 
     body {
 
-      <font color BLUE>
+<body bg color BLUE>
 
        font-family: Arial, sans-serif;
 

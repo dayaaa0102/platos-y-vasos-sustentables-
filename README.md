@@ -14,6 +14,8 @@
 
     body {
 
+      <font color BLUE>
+
        font-family: Arial, sans-serif;
 
        margin: 0;

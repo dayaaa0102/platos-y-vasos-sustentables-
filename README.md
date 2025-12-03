@@ -110,7 +110,7 @@
   <div id="section2" class"content" id="beneficios"> 
      <h2>Beneficios</h2>
      <p>Reducimos la contaminación y fomentamos hábitos sostenibles.</p>
-  </div>
+  </div> 
 
   <div id="footer">
     <p>© 2025 EcoVasos</p>

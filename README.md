@@ -14,8 +14,6 @@
 
     body {
 
-<body bg color BLUE>
-
        font-family: Arial, sans-serif;
 
        margin: 0;
@@ -89,7 +87,7 @@
            padding: 15px 0;
 
          }
-
+d
       </style>
 
 </head>
